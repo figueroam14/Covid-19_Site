@@ -6,3 +6,8 @@
 body {
   padding-top: 56px;
 }
+
+.jumbotron my-4{
+  background-image: url("../img/virus.png");
+  color: red;
+}
